@@ -83,19 +83,19 @@ img{
     }
     .navbar-brand img:hover {
             transform: scale(1.1);
-            /* Increases size by 10% */
+            
             box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);
-            /* Adds shadow */
+            
             transition: transform 0.3s ease, box-shadow 0.3s ease;
-            /* Smooth transition */
+            
     }
     .nav-item .nav-link:hover {
             transform: scale(1.1);
-            /* Scales the text by 10% */
+           
             color: var(--color-brand);
-            /* Changes text color to tomato */
+           
             transition: transform 0.3s ease, color 0.3s ease;
-            /* Smooth transition for both */
+           
     }
 
     
